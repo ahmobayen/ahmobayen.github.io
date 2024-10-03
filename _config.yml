@@ -4,7 +4,7 @@ email: "A.H.Mobayen@gmail.com"    # Your contact email
 description: "Data Scientist and IT Engineer passionate about Machine Learning and Business Intelligence." 
 # Short description for your website, used in SEO
 baseurl: ""                       # The subpath of your site, e.g., /blog, leave empty for the root directory
-url: "https://ahmobayen.github.io"  # Your site URL, change if deploying on custom domain
+url: "https://your-github-username.github.io"  # Your site URL, change if deploying on custom domain
 github_username: ahmobayen         # Your GitHub username, used for linking your profile
 
 # Author details
@@ -21,12 +21,34 @@ social:
 theme: minima                     # The theme you're using for your site
 plugins:
   - jekyll-feed                   # Plugin to generate an RSS feed for your site
+  - jekyll-seo-tag                # Plugin for SEO optimization
+  - jekyll-sitemap                # Plugin to generate a sitemap.xml for better SEO
 
 # Build settings
 markdown: kramdown                # Markdown processor
 permalink: pretty                 # URL structure of your site. Use `pretty` for clean URLs without `.html`
-
-# Other custom settings
-show_excerpts: true               # Show excerpts on the blog index page
 paginate: 5                       # Number of posts per page in pagination
 
+# SEO and Analytics
+google_analytics: UA-XXXXXXXX-X   # Your Google Analytics tracking ID (optional)
+twitter_username: your_twitter_handle # Optional, if you want to add Twitter support
+
+# Exclude specific files or directories from the build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Include files or directories for the build
+include:
+  - _pages
+
+# Additional settings (Optional)
+show_excerpts: true               # Show excerpts on the blog index page
+future: true                      # Publish future-dated posts if true
+
+# Optional Configuration for the minima theme
+minima:
+  social_links:
+    github: "https://github.com/ahmobayen"
+    linkedin: "https://www.linkedin.com/in/amir-mobayen/"
