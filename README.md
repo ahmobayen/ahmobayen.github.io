@@ -4,7 +4,7 @@ Welcome to my portfolio! I am a passionate **Data Scientist** and **IT Engineer*
 
 ## About Me
 
-For more information about my background, experience, and education, please visit my [About Me](about/) page.
+For more information about my background, experience, and education, please visit my [About Me](about.md) page.
 
 ## Contact
 
