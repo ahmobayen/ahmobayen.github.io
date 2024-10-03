@@ -1,9 +1,3 @@
----
-layout: page
-title: About Me
-permalink: /about/
----
-
 # Hey there, I'm Amir Mobayen! 👋
 
 Welcome to my little corner of the internet. I'm a **data scientist** and **IT engineer** with a passion for using technology to solve real-world problems. I have dual master’s degrees in **Data Science** and **IT Engineering**, and I've spent years honing my skills in **machine learning**, **business intelligence**, and **data analysis**.
