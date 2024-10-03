@@ -4,7 +4,7 @@ email: "A.H.Mobayen@gmail.com"    # Your contact email
 description: "Data Scientist and IT Engineer passionate about Machine Learning and Business Intelligence." 
 # Short description for your website, used in SEO
 baseurl: ""                       # The subpath of your site, e.g., /blog, leave empty for the root directory
-url: "https://your-github-username.github.io"  # Your site URL, change if deploying on custom domain
+url: "https://ahmobayen.github.io"  # Your site URL, change if deploying on custom domain
 github_username: ahmobayen         # Your GitHub username, used for linking your profile
 
 # Author details
