@@ -1,0 +1,32 @@
+# Site settings
+title: "Amir Mobayen"            # The title of your website
+email: "A.H.Mobayen@gmail.com"    # Your contact email
+description: "Data Scientist and IT Engineer passionate about Machine Learning and Business Intelligence." 
+# Short description for your website, used in SEO
+baseurl: ""                       # The subpath of your site, e.g., /blog, leave empty for the root directory
+url: "https://your-github-username.github.io"  # Your site URL, change if deploying on custom domain
+github_username: ahmobayen         # Your GitHub username, used for linking your profile
+
+# Author details
+author:
+  name: "Amir Mobayen"            # Your name
+  email: "A.H.Mobayen@gmail.com"  # Your email for the author metadata
+
+# Social links
+social:
+  github: ahmobayen               # Link to your GitHub profile
+  linkedin: amir-mobayen          # Link to your LinkedIn profile
+
+# Theme settings
+theme: minima                     # The theme you're using for your site
+plugins:
+  - jekyll-feed                   # Plugin to generate an RSS feed for your site
+
+# Build settings
+markdown: kramdown                # Markdown processor
+permalink: pretty                 # URL structure of your site. Use `pretty` for clean URLs without `.html`
+
+# Other custom settings
+show_excerpts: true               # Show excerpts on the blog index page
+paginate: 5                       # Number of posts per page in pagination
+
