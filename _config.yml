@@ -41,7 +41,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: dark
+  skin: auto
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
@@ -52,12 +52,12 @@ minima:
   social_links:
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
-  #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
+    - { platform: facebook,       user_url: "https://www.facebook.com/MylifeTouches" }
   #  - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
     - { platform: github,         user_url: "https://github.com/ahmobayen/" }
   #  - { platform: gitlab,         user_url: "https://gitlab.com/jekyll" }
   #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-  #  - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
+    - { platform: instagram,      user_url: "https://www.instagram.com/my_life_touches" }
   #  - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/amir-mobayen/" }
   #  - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
