@@ -5,8 +5,6 @@ date: 2024-10-04
 categories: inspiration
 ---
 
-# Websites That Really Inspire Me
-
 As someone deeply involved in **data science**, **technology**, and **machine learning**, I often look for websites that not only provide inspiration but also offer valuable insights and resources. Here are a few websites that have truly captured my attention and continue to inspire me on my journey:
 
 ---
