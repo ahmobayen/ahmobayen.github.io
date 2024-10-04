@@ -15,11 +15,29 @@ My experience spans across several industries, where I’ve designed and develop
 ## My Skills 💡
 
 ### Technical Expertise:
-- **Machine Learning**: Scikit-learn, TensorFlow, Python
-- **Data Analysis**: Pandas, SQL, Data Visualization
-- **Business Intelligence**: PostgreSQL, Oracle DB, Hitachi Vantara
-- **Programming**: Python, Java, SQL, NoSQL
-- **Cloud Computing**: Distributed Systems, Data Virtualization
+#### 1. **Machine Learning**
+- **Tools**: Scikit-learn, TensorFlow
+- **Languages**: Python
+- **Key Competencies**: Supervised & Unsupervised Learning, Deep Neural Networks (DNN), Natural Language Processing (NLP), Computer Vision
+
+#### 2. **Data Analysis**
+- **Tools**: Pandas, SQL, Excel, Data Visualization (Matplotlib, Seaborn)
+- **Key Competencies**: Statistical Data Analysis, Data Mining, Exploratory Data Analysis (EDA), Predictive Modeling
+
+#### 3. **Business Intelligence**
+- **Tools**: PostgreSQL, Oracle DB, Hitachi Vantara, Tableau
+- **Key Competencies**: Data Warehousing, ETL (Extract, Transform, Load), Dashboard Design, Performance Optimization
+
+#### 4. **Programming**
+- **Languages**: Python, Java, SQL, NoSQL
+- **Key Competencies**: Software Development, Algorithm Design, Object-Oriented Programming (OOP), Version Control (Git, GitLab)
+
+#### 5. **Cloud Computing**
+- **Key Competencies**: Distributed Systems, Data Virtualization, Cloud Deployment (AWS, GCP), Docker, Kubernetes
+
+#### 6. **Soft Skills**
+- **Key Strengths**: Problem-Solving, Analytical Thinking, Communication, Team Collaboration, Adaptability
+
 
 ### Soft Skills:
 - Problem-Solving & Analytical Thinking
