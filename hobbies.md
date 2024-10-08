@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Hobbies
-permalink: /MyHobbies/
+permalink: /myhobbies/
 ---
 # Hobbies
 
@@ -28,13 +28,13 @@ Below are a few of my favorite shots that illustrate my approach to storytelling
 
 <div align="center">
 
-<img src="https://500px.com/photo/1085383848/symbol-of-a-country-by-amirhossein-mobayen" alt="Mount Damavand" style="width:80%; max-width:600px;">
+<img src="https://scontent-cdg4-1.cdninstagram.com/v/t51.29350-15/429202102_768819358634708_889241535342864170_n.webp?stp=dst-jpg_e35_s1080x1080&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDc1NC5zZHIuZjI5MzUwLmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=VQwVktPJuwYQ7kNvgEUb8SI&_nc_gid=800bfe56d3d04329a451c4bfb40bdd39&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYDKpe6qdN1VxEZ8yFJQJ5IdUwRNJ_DNmS8jFfw5fTqc6A&oe=670AD48A&_nc_sid=d885a2" alt="Mount Damavand" style="width:80%; max-width:600px;">
 <p>Mount Damavand, a potentially active volcano, is a stratovolcano which is the highest peak in Iran and the Middle East, and the highest volcano in Asia. It has a special place in Persian mythology and folklore. It is the symbol of Iranian resistance against despotism and foreign rule in Persian poetry and literature.</p>
 
-<img src="https://500px.com/photo/1089238650/damselfly-by-amirhossein-mobayen" alt="Damselfly" style="width:80%; max-width:600px;">
+<img src="https://scontent-cdg4-2.cdninstagram.com/v/t51.29350-15/434591029_1217288565900637_64407873047393172_n.webp?stp=dst-jpg_e35_s1080x1080&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDgxMC5zZHIuZjI5MzUwLmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=101&_nc_ohc=Xj9X6GgtXFsQ7kNvgHnNLyC&_nc_gid=b743b1d493f94b20a23a5784c2b0fdcb&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYAdSvB5l10Si8bDMT_J7AFdDiT283dZnOw2UbxgNNR3Pw&oe=670ADFDE&_nc_sid=d885a2" alt="Damselfly" style="width:80%; max-width:600px;">
 <p>Seeing a damselfly is a good sign for nature lovers! They like clean water, so their presence suggests a healthy environment nearby. Plus, their colors and movement are pretty cool to watch. Think of it as a mini high-five from nature!</p>
 
-<img src="https://500px.com/photo/97168857/cathedral-by-amirhossein-mobayen" alt="Sacré-Cœur Basilica" style="width:80%; max-width:600px;">
+<img src="https://scontent-cdg4-1.cdninstagram.com/v/t51.29350-15/436747304_415930057715642_6374818680684612632_n.webp?stp=dst-jpg_e35_p1080x1080&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDM5eDE4MDAuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=liiTQw-1sfcQ7kNvgFqmb3J&_nc_gid=8b5b083fbfee4fafa90424d8810fb396&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYBz-6FJNc6HT3_ZcVwzqEEJNMHpulm45cBkHgGSxu6mDA&oe=670AD0D2&_nc_sid=d885a2" alt="Sacré-Cœur Basilica" style="width:80%; max-width:600px;">
 <p>The Sacré-Cœur Basilica is one of Paris’s most iconic landmarks, with a rich history and unique features that captivate visitors from around the world. Interestingly, the basilica’s white stone used in this building, known as travertine, exudes calcite when it rains, which acts like a natural cleaner for the structure. In other words, it cleans itself!</p>
 
 </div>
