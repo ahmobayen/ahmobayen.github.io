@@ -11,39 +11,45 @@ Apart from my professional work in data science and business intelligence, I bel
 
 Photography isn't just a hobby for me—it's a form of storytelling that lets me freeze emotions, moments, and narratives in time. Every time I pick up my camera, I feel a sense of excitement and responsibility to capture something that resonates, something that speaks louder than words. Photography has the unique power to convey stories that are both personal and universal, and I embrace that challenge with pride.
 
-### Why Storytelling in Photography is Important to Me:
+### Why Storytelling in Photography is Important to Me
 Through my lens, I see more than just subjects; I see stories waiting to unfold. Whether it's a fleeting smile, a breathtaking landscape, or the hustle of daily life, I aim to capture the essence of those moments. It's about freezing a point in time that sparks curiosity and emotion. With each shot, I strive to create a narrative that connects with people, makes them feel something, and invites them to see the world from a different perspective.
 
-### The Art of Telling a Story in a Single Frame:
+<div align="center">
+  <div class='pixels-photo'>
+    <a href='https://500px.com/photo/1085383848/symbol-of-a-country-by-amirhossein-mobayen' alt='Symbol Of a Country by Amirhossein Mobayen'>
+      <img src='https://drscdn.500px.org/photo/1085383848/q%3D80_m%3D600/v2?sig=79921ada32aafb807d58b556b77f0a42f0baca2d4e0af4cb2ade5e573f4197c0' alt='Symbol Of a Country by Amirhossein Mobayen' style="width:80%; max-width:600px;" />
+    </a>
+  </div>
+</div>
+
+### The Art of Telling a Story in a Single Frame
 A photograph has the power to communicate a full story without saying a word. From the lighting to the framing, every decision matters. I take pride in the details, whether it's the warmth of sunlight during golden hour or the contrast of shadows that create drama. Every shot is a new opportunity to express creativity, but also to convey something meaningful. That’s what makes photography so exhilarating for me—it’s a perfect blend of art, precision, and emotion.
 
-### How Photography Empowers My Work:
+### How Photography Empowers My Work
 Photography pushes me to think creatively and look for patterns in the world around me—skills that are invaluable in data science and business intelligence. The attention to detail required for capturing the perfect image enhances my focus when working on complex systems and projects. It’s not just about snapping photos; it’s about honing my ability to observe, interpret, and translate those observations into something tangible—just like working with data.
+<div align="center">
+  <div class='pixels-photo'>
+    <a href='https://500px.com/photo/1089238650/damselfly-by-amirhossein-mobayen' alt='Damselfly by Amirhossein Mobayen'>
+      <img src='https://drscdn.500px.org/photo/1089238650/q%3D80_m%3D600/v2?sig=33b23eed2a65e364616cc45a42de3d0fcfe43955616c11c95b27484147205f6d' alt='Damselfly by Amirhossein Mobayen' style="width:80%; max-width:600px;" />
+    </a>
+  </div>
+</div>
 
-### Photography and Personal Growth:
+### Photography and Personal Growth
 Photography has taught me patience, adaptability, and how to embrace the unexpected. It’s helped me appreciate the beauty in small moments and see the world through a creative lens. That same mindset carries over into my professional life, where I approach every challenge with curiosity and determination, always seeking to find the best angle—both literally and figuratively.
 
 ### My Photography Work
-Below are a few of my favorite shots that illustrate my approach to storytelling through photography:
+Explore more of my work and the stories behind the images I capture on [Instagram](https://www.instagram.com/my_life_touches?igsh=a2FqOWZjN2I0NXZy), [500px.com](https://500px.com/p/ahmobayen?view=photos), or [Youpic](https://youpic.com/ahmobayen).
 
 <div align="center">
-    <iframe src="https://www.instagram.com/p/C3qmO6jNa4K/?igsh=MXZzMXIweTc4MjI5dg==" width="400" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+  <div class='pixels-photo'>
+    <a href='https://500px.com/photo/97168857/cathedral-by-amirhossein-mobayen' alt='Cathedral by Amirhossein Mobayen'>
+      <img src='https://drscdn.500px.org/photo/97168857/q%3D80_m%3D600/v2?sig=67afbd9cdbeaf22336c154aeb2b9b6b4951a595b29994079e3cf29354367ef6b' alt='Cathedral by Amirhossein Mobayen' style="width:80%; max-width:600px;" />
+    </a>
+  </div>
 </div>
 
-<div align="center">
-    <iframe src="https://www.instagram.com/p/C5qiU3XNeBX/?igsh=MXV5ZnR6ZXQzcjhtZQ==" width="400" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
-</div>
-
-<div align="center">
-    <iframe src="https://www.instagram.com/p/C5ByJUCNk_k/?igsh=MWV2YmdpM2Z0dXJnNQ==d" width="400" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
-</div>
-
-
-
-### Visit My Photography Page
-Explore more of my work and the stories behind the images I capture in [Instagram](https://www.instagram.com/my_life_touches?igsh=a2FqOWZjN2I0NXZy), [500px.com](https://500px.com/p/ahmobayen?view=photos) or [youpic.com](https://youpic.com/ahmobayen).
-
-I am proud to say that storytelling through photography is an integral part of who I am. It’s a passion that fuels my creativity, sharpens my observational skills, and constantly reminds me of the beauty in both simplicity and complexity. 
+I am proud to say that storytelling through photography is an integral part of who I am. It’s a passion that fuels my creativity, sharpens my observational skills, and constantly reminds me of the beauty in both simplicity and complexity.
 
 ---
 
@@ -79,11 +85,22 @@ Ecotourism is not just a hobby for me; it’s a heartfelt commitment to explorin
 ### Why Ecotourism Inspires Me:
 Through ecotourism, I have the opportunity to immerse myself in diverse ecosystems and connect with the natural world in meaningful ways. Whether hiking through lush forests, snorkeling in vibrant coral reefs, or visiting local communities, I cherish the experiences that allow me to appreciate the beauty of our planet. Each trip serves as a reminder of the delicate balance we must maintain between exploration and conservation.
 
+<div class='pixels-photo'>
+<a href='https://500px.com/photo/1007340218/snowday-by-amirhossein-mobayen' alt='SnowDay by Amirhossein Mobayen on 500px.com'>
+  <img src='https://drscdn.500px.org/photo/1007340218/q%3D80_m%3D600_k%3D1/v2?sig=666da40cca2e987cc9f762db2aa655a97d810803cce819c47e51e95e91da3072' alt='SnowDay by Amirhossein Mobayen on 500px.com' />
+</a>
+</div>
+
 ### A Focus on Responsible Travel:
 I take pride in being a responsible traveler, ensuring that my adventures have a positive impact on the environment and local communities. I seek out eco-friendly accommodations, support local businesses, and participate in conservation initiatives wherever I go. This mindset not only enhances my travel experiences but also empowers me to advocate for sustainability in all aspects of life.
 
 ### Connecting with Nature:
 Ecotourism allows me to step outside of my comfort zone and appreciate the wonders of nature. The tranquility of a secluded beach, the majesty of a mountain range, or the intricate details of a forest ecosystem remind me of our planet’s incredible diversity. These experiences enrich my life and inspire me to contribute positively to environmental conservation.
+<div class='pixels-photo'>
+<a href='https://500px.com/photo/246176423/grainfield-by-amirhossein-mobayen' alt='grainfield by Amirhossein Mobayen on 500px.com'>
+  <img src='https://drscdn.500px.org/photo/246176423/q%3D80_m%3D600/v2?sig=309c635d2d62c35c9a5c24b499a97cd11ed2c24b61e0f2298e130d7d6c6dc8f5' alt='grainfield by Amirhossein Mobayen on 500px.com' />
+</a>
+</div>
 
 ### How Ecotourism Influences My Professional Values:
 - **Sustainability Mindset:** My commitment to ecotourism informs my professional approach, encouraging me to seek sustainable solutions in my work in data science and business intelligence.
@@ -111,20 +128,51 @@ Many of my favorite games emphasize collaboration, requiring players to work tog
 Video games are rich in storytelling and artistic expression, inspiring me to think creatively and explore new ideas. The intricate narratives, stunning visuals, and immersive environments fuel my imagination and encourage me to think outside the box. This creativity extends beyond gaming, influencing my approach to problem-solving in both personal and professional settings.
 
 ### My Favorite Video Games:
+<div align="center">
+  <a href="https://en.bandainamcoent.eu/elden-ring/elden-ring" target="_blank">
+    <img src="https://p325k7wa.twic.pics/high/elden-ring/elden-ring/08-shadow-of-the-erdtree/elden-ring-expansion-SOTE/00-page-content/ERSOTE-header-mobile.jpg?twic=v1/step=10/quality=80/max=760" alt="Elden Ring" style="width:200px; max-width:100%;"/>
+  </a>
+</div>
+
 1. **Elden Ring**:
    - An expansive open-world action RPG that combines deep lore, intricate environments, and challenging gameplay. I appreciate its blend of exploration and storytelling, which pushes me to strategize my approach to each encounter. The game’s rich narrative and world-building have inspired me to immerse myself fully in every detail, reflecting my passion for creativity and exploration.
+
+<div align="center">
+  <a href="https://store.2k.com/fr/game/buy-bioshock" target="_blank">
+    <img src="https://images.ctfassets.net/wn7ipiv9ue5v/77bg0HHfOEyguyCSgyVI4m/87050c45dcf4f264f7d593a9bcc8cccc/2KGMKT_BIOSHOCK_Remastered_Metadata_HeroBanner_3840x2160__1___1_.jpg" alt="2K Games" style="width:200px; max-width:100%;"/>
+  </a>
+</div>
 
 2. **BioShock**:
    - A masterclass in narrative-driven gameplay, **BioShock** captivates with its atmospheric storytelling and thought-provoking themes. The blend of combat and exploration in a beautifully crafted dystopian world encourages me to think critically about choices and consequences, mirroring my analytical approach in data science.
 
+<div align="center">
+  <a href="https://www.rockstargames.com/reddeadredemption2" target="_blank">
+    <img src="https://media-rockstargames-com.akamaized.net/mfe6/prod/__common/img/949e0a50124a889b098f73cedc29fb3b.jpg" alt="Rockstar Games Logo" style="width:200px; max-width:100%;"/>
+  </a>
+</div>
+
 3. **Red Dead Redemption 2**:
    - This epic tale of loyalty and survival in the American frontier showcases incredible storytelling and character development. The attention to detail in the open world is breathtaking, and I find joy in exploring its vast landscapes while reflecting on the moral dilemmas faced by the characters. The game’s intricate plot reminds me of the importance of narrative in my own projects.
+
+<div align="center">
+  <a href="https://www.kojimaproductions.jp/en/death-stranding-dc" target="_blank">
+    <img src="https://www.kojimaproductions.jp/sites/default/files/2024-01/dsdc_keyart_.jpg" alt="Rockstar Games Logo" style="width:200px; max-width:100%;"/>
+  </a>
+</div>
 
 4. **Death Stranding**:
    - A unique experience that combines elements of adventure, exploration, and emotional storytelling. The themes of connection and perseverance resonate with me, highlighting the importance of relationships and collaboration in both gaming and real life. The innovative gameplay mechanics challenge my problem-solving abilities and keep me engaged in a truly memorable experience.
 
+<div align="center">
+  <a href="https://www.ubisoft.com/en-gb/game/rainbow-six/siege" target="_blank">
+    <img src="https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/fr_CA/dwf20ab409/images/large/56c494ad88a7e300458b4d5a-1.jpg?sw=890&sh=501&sm=fit" alt="Rockstar Games Logo" style="width:200px; max-width:100%;"/>
+  </a>
+</div>
+
 5. **Rainbow Six Siege**:
    - A tactical shooter that emphasizes teamwork, strategy, and communication. Engaging in multiplayer matches requires quick thinking and adaptability, which I find exhilarating. The game fosters a strong sense of camaraderie and coordination among players, mirroring the collaborative spirit I value in my professional endeavors.
+
 
 ### Continuous Learning and Growth:
 The world of video games is always evolving, with new genres, technologies, and narratives emerging regularly. I embrace this continuous learning journey, staying informed about industry trends and innovations. This commitment to growth parallels my dedication to learning in my professional life, where I actively seek opportunities to expand my skill set and knowledge.
