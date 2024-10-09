@@ -12,7 +12,7 @@ permalink: /experience-projects/
 One of the most difficult experiences in my professional journey was working as an **IT consultant and business analyst** in a **non-IT industry**. This role required me to balance both **technical responsibilities** and **management** tasks, which proved to be more challenging than I initially anticipated.
 ### Experience Overview
 
-- **Role**: IT Manager
+- **Role**: IT Consultant and business analyst
 - **Industry**: Non-IT
 - **Challenges Faced**: Bridging the gap between technical requirements and management expectations
 - **Outcome**: Partially unsuccessful due to difficulties in aligning technical and business perspectives
