@@ -6,4 +6,12 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: Welcome
+permalink: /
+---
+
+# Welcome to My Retro-Style Page 👾
+
+This is my personal site where I share my projects, ideas, and thoughts in a retro-styled environment. Feel free to explore!
+
 ---
