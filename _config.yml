@@ -28,6 +28,7 @@ plugins:
 header_pages:
   - index.md
   - hobbies.md
+  - experiences.md
   - about.md
 
 # Set to `true` to show excerpts on the homepage.
